@@ -1,0 +1,3 @@
+Contract address: 0xEe252e3c05F037c35d5be6D1F1643B92a5878701
+Owner: 0x67A9a146f53Bd08ca34D1110AD77975BFf5B03A7
+Testnet explorer: https://testnet.arbiscan.io/address/0xEe252e3c05F037c35d5be6D1F1643B92a5878701
